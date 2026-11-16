@@ -18,11 +18,17 @@ The goal of this repository is to share my approach, the challenges I encountere
 
 This is a personal learning project and an independent implementation, not an official replacement for the manufacturer's instructions.
 
+
 ## Robot Preview
 
-![Arduino Autonomous Robot Car - Image 1](images/robot-image-1.JPEG)
+<p align="center">
+  <img src="images/robot-image-1.JPEG" alt="Robot Car - Image 1" width="350">
+  <img src="images/robot-image-2.JPEG" alt="Robot Car - Image 2" width="350">
+</p>
 
-![Arduino Autonomous Robot Car - Image 2](images/robot-image-2.JPEG)
+<p align="center">
+  <em>Arduino autonomous robot car featuring ultrasonic sensing, servo scanning, and PWM motor control.</em>
+</p>
 
 *The assembled Arduino robot car featuring a two-wheel acrylic chassis, ultrasonic sensor, servo motor, and custom wiring.*
 
